@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@iamAkatzuki_47-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/EhimenEmmanuel6?t=moVyllwnCR0nlJxGeWu3aw&s=09)](https://x.com/Akatzuki_47?t=3CyGzEsmKr1_omPo_dG6rw&s=09)
 
-As a seasoned software developer, I am deeply passionate about tackling complex problems and driving innovation. I embrace challenges and am dedicated to staying abreast of the latest industry trends. Fueled by a desire to craft outstanding software and create a meaningful impact,I have worked on a variety of[projects](https://github.com/Akalaehimen), and I am ready to embark on new and exciting projects. Let's join forces and build something extraordinary together!
+As a seasoned software developer, I am deeply passionate about tackling complex problems and driving innovation. I embrace challenges and am dedicated to staying abreast of the latest industry trends. Fueled by a desire to craft outstanding software and create a meaningful impact,I have worked on a variety of [projects](https://github.com/Akalaehimen), and I am ready to embark on new and exciting projects. Let's join forces and build something extraordinary together!
 
 **Here's a quick summary about me**:
 
@@ -36,5 +36,5 @@ As a seasoned software developer, I am deeply passionate about tackling complex 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akalaehimen&show_icons=true&include_all_commits=true&hide_border=true" alt="Akala Ehimen GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akalaehimen&show_icons=true&include_all_commits=true&hide_border=true" alt="Akala Ehimen GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akalaehimen&langs_count=8&layout=compact&hide_border=true" alt="Akala Ehimen GitHub stats" /> |
 | ------------- | ------------- |

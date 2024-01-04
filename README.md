@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Twitter Badge](https://img.shields.io/badge/-@iamAkatzuki_47-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/EhimenEmmanuel6?t=moVyllwnCR0nlJxGeWu3aw&s=09)](https://twitter.com/EhimenEmmanuel6?t=moVyllwnCR0nlJxGeWu3aw&s=09)
+[![Twitter Badge](https://img.shields.io/badge/-@iamAkatzuki_47-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/EhimenEmmanuel6?t=moVyllwnCR0nlJxGeWu3aw&s=09)](https://x.com/Akatzuki_47?t=3CyGzEsmKr1_omPo_dG6rw&s=09)
 
 As a seasoned software developer, I am deeply passionate about tackling complex problems and driving innovation. I embrace challenges and am dedicated to staying abreast of the latest industry trends. Fueled by a desire to craft outstanding software and create a meaningful impact,I have worked on a variety of[projects](https://github.com/Akalaehimen), and I am ready to embark on new and exciting projects. Let's join forces and build something extraordinary together!
 

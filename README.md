@@ -8,7 +8,7 @@ As an experienced software and Ai automation developer, I am deeply passionate a
 - 💡 Fun fact: I love football (watching and playing), I enjoy brainstorming creative solutions to problems, and also enjoy debugging 😊.
 - 🌱 I graduated from [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022, where I gained hands-on experience in software development.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, backend engineer, or python programmer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Ai automation, backend engineer, or python programmer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing ehimenakala45@gmail.com.
 
 ---
